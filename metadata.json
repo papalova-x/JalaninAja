@@ -1,0 +1,7 @@
+{
+  "name": "Ruteinaja - Perencana Liburan Bareng Kamu",
+  "description": "asisten perjalanan pribadi untuk mengelola rute, jadwal, dan tujuan liburan Kita secara real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
